@@ -1,8 +1,5 @@
 # SpringBoot-DataJPA-MVC-H2-REST
-Spring Boot CRUD REST API
-
-<h2>SpringBoot-DataJPA-MVC-H2-REST</h2>
- <p>Spring boot REST API for performing CRUD operation using spring web mvc, spring data jpa, h2 embdded database library jars.</p>
+ <p>Spring boot REST API for performing CRUD operation or demonstrates all 4 basic HTTP request types using spring web mvc, spring data jpa, h2 embdded database library jars. GET, POST, PUT and DELETE controller methods implemented.</p>
 
 <h2>Installation</h2> 
  <ul>
@@ -33,3 +30,17 @@ Spring Boot CRUD REST API
 		<li>Connect and run this (<b>SELECT * FROM CUSTOMER</b>) query to see the existing data in database.</li>
 		<li>Existing data has entered using the <b>data.sql</b> file.</li>
  </ul>
+ 
+ <h2>Calling Procedure from Postman</h2>
+	<ul>
+	<li><h5>Get All Request</h5></li>
+			<p>http://localhost:8080/customers</p>
+	<li><h5>Get by Id Request</h5></li>
+			<p>http://localhost:8080/customer/2</p>
+	<li><h5>Post Request</h5></li>
+			<img src="https://github.com/provaakter/SpringBoot-DataJPA-MVC-H2-REST/blob/master/Image/Rest%20Api%20Post%20Request%20.jpg">
+	<li><h5>Put Request</h5></li>
+			<img src="https://github.com/provaakter/SpringBoot-DataJPA-MVC-H2-REST/blob/master/Image/Rest%20Api%20Put%20Request%20.jpg">
+	<li><h5>Delete Request</h5></li>
+			<p>http://localhost:8080/customer/4</p>
+	</ul>
