@@ -11,7 +11,6 @@
 		<li><h5>Spring Starter Project Dependencies</h5></li>
 			<p>->Spring Data JPA</p>
       <p>->H2 Database</p>
-      <p>->Spring Web</p>
       <p>->Rest Repositories</p>
     <li><h5>Dependency for Auto Relunch the Application</h5></li>
 			<p>->Spring Boot Devtools - Version 2.1.8.RELEASE</p>
