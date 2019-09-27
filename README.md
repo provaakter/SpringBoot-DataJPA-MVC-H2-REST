@@ -12,6 +12,8 @@
 			<p>->Spring Data JPA</p>
       <p>->H2 Database</p>
       <p>->Rest Repositories</p>
+	<li><h5>To Get XML Data (by default Spring Boot support to get only JSON data)</h5></li>
+			<p>->Jackson Dataformat XML - Version 2.9.9(the version is matched to the exist jackson-databind dependency/jar)</p>
     <li><h5>Dependency for Auto Relunch the Application</h5></li>
 			<p>->Spring Boot Devtools - Version 2.1.8.RELEASE</p>
 	</ul>
