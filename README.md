@@ -1,5 +1,5 @@
 # SpringBoot-DataJPA-MVC-H2-REST
- <p>Spring boot REST API for performing CRUD operation or demonstrates all 4 basic HTTP request types using spring data jpa, h2 embdded database library jars. GET, POST, PUT and DELETE controller methods implemented.</p>
+ <p>Spring boot REST API for performing CRUD operation or demonstrates all 4 basic HTTP request types using spring data jpa, spring rest repository, h2 embdded database library jars. GET, POST, PUT and DELETE controller methods implemented.</p>
 
 <h2>Installation</h2> 
  <ul>
